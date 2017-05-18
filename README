@@ -1,1 +1,3 @@
-Inmplementation and test the parallel replica method applied to overdamped langevin
+Library for integration of stochastic differential equations.
+
+Af for now it is a stub, containing only implementation of the parallel replica method applied to overdamped langevin
